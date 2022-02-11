@@ -1,7 +1,5 @@
 # docker-remnux
 
-[![DockerHub Badge](https://hub.docker.com/r/remnux/remnux-distro)](https://hub.docker.com/r/remnux/remnux-distro/)
-
 A compilation of the docker commands wrapped into docker-compose for ease-of-use
 
 ## Run
